@@ -1,0 +1,5 @@
+*vim-textlint.txt* Writing style checker
+
+JUST A TEMP. Refer to original repo of TEXTLINT (DamienCassou/textlint)
+
+ vim:tw=78:ft=help:norl:
